@@ -19,6 +19,10 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	In order to make sure that we have one commit per logical change, we will add only 
+	those files to the staging area (using command git add) which have been modified 
+	for implementing the required logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

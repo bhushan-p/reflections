@@ -26,6 +26,19 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Some situations when branches would be helpful in keeping the history organized
+	would be:
+	1) To try out some experimental changes
+	2) To create a demo application
+	3) To make custom changes for a specific (or few) clients 
+	4) To release code to review or testing
+	5) To take a backup of the stable version
+
+	Branches would help to ensure that the changes made do not affect the master branch 
+	(i.e in most cases stable or working branch). It can also help track history and find bugs
+	faster. Creating branches would also enable different tasks being carried out at the same 
+	time.	
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in

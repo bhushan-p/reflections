@@ -41,6 +41,11 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	The diagrams help me visualize 
+	1. Different branches that were created and at what point, so it gives 
+	   details about changes got included in the branch at the time it was made 
+	2. It also help me understand what changes were made in the new branch	 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

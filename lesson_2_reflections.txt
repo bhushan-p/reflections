@@ -48,6 +48,15 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	As a reult of merging two branches 
+	1. The changes made in one branch (coins in our case) are merged or included 
+	   in the other branch (master in our case).
+	2. The log history for the merged branch (i.e master) will now also show the history of 
+	   the other branch (i.e coins)
+
+	The diagram is represented the way we do to identify the when the new branch was created 
+	and when it was merged
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?

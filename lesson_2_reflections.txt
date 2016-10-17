@@ -58,5 +58,19 @@ the diagram the way we do?
 	The diagram is represented the way we do to identify the when the new branch was created 
 	and when it was merged
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	  Pros of automatics merging vs.  manual merge
+	  1. Automatic merging allows easy, fast and accurate merging as against
+	     manual merging which can be tedious and cause error if there are lot 
+	     of changes and multiple files.
+
+	  Cons of automatics merging vs manual merge
+	  1. In case of conflicts (i.e are modification done in the same portion of the file)
+	  	 automatic merging may not be able to make the correct decision as to which changes
+	  	 to include and which changes to discard. 
+	  2. If auto merging is still done in case of conflicts the results may be inconsistent and lead
+	  	 to errors.
+	  
+

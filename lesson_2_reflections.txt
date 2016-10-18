@@ -43,7 +43,7 @@ How do the diagrams help you visualize the branch structure?
 
 	The diagrams help me visualize 
 	1. Different branches that were created and at what point, so it gives 
-	   details about changes got included in the branch at the time it was made 
+	   details about changes that were included in the branch at the time it was made 
 	2. It also help me understand what changes were made in the new branch	 
 
 What is the result of merging two branches together? Why do we represent it in
@@ -55,13 +55,13 @@ the diagram the way we do?
 	2. The log history for the merged branch (i.e master) will now also show the history of 
 	   the other branch (i.e coins)
 
-	The diagram is represented the way we do to identify the when the new branch was created 
+	The diagram is represented the way we do to identify when the new branch was created 
 	and when it was merged
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-	  Pros of automatics merging vs.  manual merge
+	  Pros of automatics merging vs. manual merge
 	  1. Automatic merging allows easy, fast and accurate merging as against
 	     manual merging which can be tedious and cause error if there are lot 
 	     of changes and multiple files.

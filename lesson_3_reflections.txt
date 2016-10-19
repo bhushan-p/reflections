@@ -14,7 +14,14 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks work within the Git environment. It is used to copy from one account
+    to another within Git. Clones on the other hand is used for creating a copy
+    of the repository from Git environment to a local computer. It can also be
+    used to create or move the repository on a local computer, while Branches are
+    created within the local repository.
+
+    To copy a repository from Git, it could be forked instead of cloning to a
+    local repository and then pushing it to Git.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?

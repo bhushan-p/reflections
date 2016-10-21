@@ -44,4 +44,16 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Some cases where a seperate branch would be used rather than directly making
+    changes to the master would be:
+    1) To try out some experimental changes
+    2) Adding a new feature	
+    3) To release code for testing
+
+    Making changes in the master branch is much simpler process. Any changes made 
+    are always available in the master.
+
+    Branching helps while working in a collaborative environment. It allows every
+    member to make changes without fear of breaking the stable version.
+
+	
